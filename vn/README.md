@@ -1,5 +1,3 @@
-# Các quy định về viết code ở công ty Framgia
-
 ## Ruby
 
 ####[Kiểu chuẩn](./ruby/standard.md)
