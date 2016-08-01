@@ -1,4 +1,4 @@
-# Framgia Coding Standard
+
 
 ## Android
 
